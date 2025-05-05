@@ -92,7 +92,7 @@ A robust, AI-powered dashboard built with **Streamlit** that combines classical 
 🔗 Live Demo
 🚀 Check out the deployed app here:
 
-👉 smart-time-series-forecasting-inventory-optimization.streamlit.app
+👉 [smart-time-series-forecasting-inventory-optimization](https://smart-inventory-optimisation.streamlit.app)
 ## 🤝 Contributions
 
 Contributions, bug reports, and feature requests are welcome!
