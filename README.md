@@ -70,11 +70,18 @@ A robust, AI-powered dashboard built with **Streamlit** that combines classical 
 ---
 ## 🖥 Dashboard Preview
 <img width="1435" alt="Screenshot 2025-05-05 at 11 49 58 PM" src="https://github.com/user-attachments/assets/c68e767c-750a-457d-8715-1c937e4a2f8c" />
-<img width="1125" alt="Screenshot 2025-05-05 at 11 50 21 PM" src="https://github.com/user-attachments/assets/ec3bcbcb-2649-4feb-b945-da28075b1abf" />
-<img width="791" alt="Screenshot 2025-05-05 at 11 50 31 PM" src="https://github.com/user-attachments/assets/e253c96f-efce-4654-b413-38abad93cf51" />
-<img width="1080" alt="Screenshot 2025-05-05 at 11 51 24 PM" src="https://github.com/user-attachments/assets/58022601-cc49-4ab2-9797-4eb4764909cc" />
-<img width="828" alt="Screenshot 2025-05-05 at 11 51 34 PM" src="https://github.com/user-attachments/assets/6502a440-4f3e-4b50-8e6c-28ef52b59bb7" />
-<img width="828" alt="Screenshot 2025-05-05 at 11 51 34 PM 1" src="https://github.com/user-attachments/assets/a16e2f31-2a77-442c-8e35-21f2e2d89f33" />
+
+<img width="1440" alt="Screenshot 2025-05-06 at 12 21 00 AM" src="https://github.com/user-attachments/assets/0046daca-d68e-4d35-bf71-e71c4ec1923a" />
+
+<img width="1440" alt="Screenshot 2025-05-06 at 12 21 08 AM" src="https://github.com/user-attachments/assets/8bc8cdae-564b-4eb4-9a9e-201cda878a6b" />
+
+<img width="1440" alt="Screenshot 2025-05-06 at 12 21 32 AM" src="https://github.com/user-attachments/assets/b7893ec3-731d-4dc2-9ea9-bd4df800c09d" />
+
+<img width="1440" alt="Screenshot 2025-05-06 at 12 21 41 AM" src="https://github.com/user-attachments/assets/95808107-4bcc-4076-a85a-50eca5e723cf" />
+
+<img width="1440" alt="Screenshot 2025-05-06 at 12 21 51 AM" src="https://github.com/user-attachments/assets/005176b3-ea40-4fdc-b02f-b162d104dc88" />
+
+<img width="1440" alt="Screenshot 2025-05-06 at 12 21 58 AM" src="https://github.com/user-attachments/assets/26d24f1b-ae1e-465c-99ae-30d2f35c6874" />
 
 
 
