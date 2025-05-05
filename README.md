@@ -39,12 +39,7 @@ A robust, AI-powered dashboard built with **Streamlit** that combines classical 
 
 ## 🖥 Dashboard Preview
 
->  <img width="828" alt="Screenshot 2025-05-05 at 11 51 34 PM 1" src="https://github.com/user-attachments/assets/bdeeef43-6b60-4e0c-bb04-5c3f3d44f134" />
-<img width="828" alt="Screenshot 2025-05-05 at 11 51 34 PM" src="https://github.com/user-attachments/assets/510d697e-37b3-4e64-ba52-66d593f0fc76" />
-<img width="1080" alt="Screenshot 2025-05-05 at 11 51 24 PM" src="https://github.com/user-attachments/assets/e8a11ae1-0b8d-45c0-a2e3-793b088ff18f" />
-<img width="791" alt="Screenshot 2025-05-05 at 11 50 31 PM" src="https://github.com/user-attachments/assets/03935a9f-a3eb-48f2-a0bf-8898d903027b" />
-<img width="1125" alt="Screenshot 2025-05-05 at 11 50 21 PM" src="https://github.com/user-attachments/assets/4901d977-7d77-4aaf-a832-a4cae8418c55" />
-<img width="1435" alt="Screenshot 2025-05-05 at 11 49 58 PM" src="https://github.com/user-attachments/assets/2750d642-535f-434b-b4fb-51529a95b533" />
+
 
 
 ---
