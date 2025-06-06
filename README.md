@@ -22,18 +22,18 @@ A robust, AI-powered dashboard built with **Streamlit** that combines classical 
 
 | Model       | Description                                                   |
 |-----------  |---------------------------------------------------------------|
-| **ARIMA**   | Best for linear trends and stationary time series             |
-| **Prophet** | Handles seasonality and holidays effectively                  |
-| **XGBoost** | Boosted tree model for fast, high-performance forecasting     |
-| **LSTM**    | Neural network suited for complex sequential dependencies     |
+|   ARIMA     | Best for linear trends and stationary time series             |
+|   Prophet   | Handles seasonality and holidays effectively                  |
+|   XGBoost   | Boosted tree model for fast, high-performance forecasting     |
+|   LSTM      | Neural network suited for complex sequential dependencies     |
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages**: Python
-- **Libraries**: Streamlit, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, XGBoost, Statsmodels, Prophet
-- **Tools**: Jupyter Notebook, GitHub, Google Colab
+- Languages: Python
+- Libraries: Streamlit, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, XGBoost, Statsmodels, Prophet
+- Tools: VS Code, GitHub
 
 ---
 
@@ -42,19 +42,19 @@ A robust, AI-powered dashboard built with **Streamlit** that combines classical 
 
 ## ⚙️ How to Run the Project
 
-1. **Clone the repository**
+1. Clone the repository
    ```bash
    git clone https://github.com/tanutiwarii/Smart-Time-Series-Forecasting-Inventory-Optimization.git
    cd Smart-Time-Series-Forecasting-Inventory-Optimization
 ````
 
-2. **Install dependencies**
+2. Install dependencies
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the dashboard**
+3. Run the dashboard
 
    ```bash
    streamlit run dashboard/app.py
@@ -64,7 +64,7 @@ A robust, AI-powered dashboard built with **Streamlit** that combines classical 
 
 ## 📊 Dataset
 
-* **Source**: [Walmart Retail Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
+* Source: [Walmart Retail Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
 * Weekly sales, promotional markdowns, holidays, and store-specific features
 
 ---
