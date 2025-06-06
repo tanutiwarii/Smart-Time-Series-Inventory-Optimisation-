@@ -44,7 +44,7 @@ A robust, AI-powered dashboard built with **Streamlit** that combines classical 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Smart-Time-Series-Forecasting-Inventory-Optimization.git
+   git clone https://github.com/tanutiwarii/Smart-Time-Series-Forecasting-Inventory-Optimization.git
    cd Smart-Time-Series-Forecasting-Inventory-Optimization
 ````
 
@@ -118,9 +118,3 @@ Feel free to fork the repo and submit a pull request.
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
-```
-
----
-
-Would you like help creating a dashboard screenshot or animated GIF preview to embed here?
-```
