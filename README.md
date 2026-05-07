@@ -42,7 +42,7 @@ A robust, AI-powered dashboard built with **Streamlit** that combines classical 
    ```bash
    git clone https://github.com/tanutiwarii/Smart-Time-Series-Forecasting-Inventory-Optimization.git
    cd Smart-Time-Series-Forecasting-Inventory-Optimization
-````
+```
 
 2. Install dependencies
 
