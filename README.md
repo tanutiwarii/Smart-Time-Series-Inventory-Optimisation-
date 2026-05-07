@@ -1,9 +1,5 @@
 # 📦 Smart Time Series Forecasting & Inventory Optimization
 
-
-```markdown
-# 📦 Smart Time Series Forecasting & Inventory Optimization
-
 A robust, AI-powered dashboard built with **Streamlit** that combines classical and deep learning models to forecast product demand and optimize inventory. This project helps businesses make data-driven decisions using Walmart's retail sales data, minimizing stockouts and overstock scenarios.
 
 ---
